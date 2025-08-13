@@ -32,6 +32,9 @@ A página foi criada com atenção ao design responsivo. Imagens e vídeo se ada
 - Paleta de cores baseada no tema Android.
 - Layout com uso de `<header>`, `<nav>`, `<main>`, `<aside>`, `<footer>` para melhor SEO e organização.
 
+## 📌 Clique para Visualizar
+( https://richeliane-moura.github.io/mascote-android/)
+
 ## 📄 Licença
 
 Este projeto foi criado com fins educativos, inspirado nas aulas do professor [Gustavo Guanabara](https://gustavoguanabara.github.io/) para o [Curso em Vídeo](https://www.cursoemvideo.com/). Você pode usá-lo para fins didáticos ou como base para seus próprios projetos.
